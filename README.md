@@ -1,6 +1,4 @@
 # JAX-RS Template Application
-
-This is a template for a lightweight RESTful API using JAX-RS. The sample code is a call for getting the current time.
     
 ## Results
 
