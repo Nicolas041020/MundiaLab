@@ -10,7 +10,7 @@ This is a template for a lightweight RESTful API using JAX-RS. The sample code i
 
 - Peticion para traer todos los competidores registrados
 
-  ![Pantalla principal](img/foto2.png)
+  ![Pantalla principal](img/fotico.png)
 
 - Peticion para iniciar sesión (EXITOSA)
 
